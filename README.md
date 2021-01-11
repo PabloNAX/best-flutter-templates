@@ -262,4 +262,5 @@ The last item in this best fresh best flutter app templates  2020 selection Flut
 Thank you for reading, buddy!
 If it was Usefull star it!
 
-original article https://dev.to/pablonax/20-best-flutter-app-templates-2021-18oo
+original article: https://dev.to/pablonax/20-best-flutter-app-templates-2021-18oo
+medium : https://double-pablo.medium.com/20-best-flutter-app-templates-2021-a8ec89c475e2
